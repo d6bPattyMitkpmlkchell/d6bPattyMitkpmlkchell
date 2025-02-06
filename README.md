@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm d6bPattyMitkpmlkchell
 
-<!--
-**d6bPattyMitkpmlkchell/d6bPattyMitkpmlkchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎪 🏸 A developer in programming languages 🎪 🏸
 
-Here are some ideas to get you started:
+## About Me
+🎮 🎺 🏏 🚀 Looking to collaborate on blockchain 🎮 🎺 🏏 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎵 🎳 🥋 Interested in web development 🎵 🎳 🥋
+
+### Fun Facts
+🎱 🎯 🎣 🏊 Creating amazing things with augmented reality 🎱 🎯 🎣 🏊
+
+---
+🔥 🎺 🎮 🎰 🛼 Thanks for visiting my profile! 🎯 🎨 🎾 🎵 🚀
